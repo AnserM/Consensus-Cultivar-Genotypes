@@ -1,0 +1,25 @@
+##fileformat=VCFv4.2
+##FILTER=<ID=PASS,Description="All filters passed">
+##FORMAT=<ID=GT,Number=1,Type=String,Description="Genotype">
+##fileDate=20160928
+##contig=<ID=Chr15,length=51756343,assembly=Wm82.a2,species="Glycine max",taxonomy=3847>
+##contig=<ID=Chr07,length=44630646,assembly=Wm82.a2,species="Glycine max",taxonomy=3847>
+##contig=<ID=Chr05,length=42234498,assembly=Wm82.a2,species="Glycine max",taxonomy=3847>
+##contig=<ID=Chr04,length=52389146,assembly=Wm82.a2,species="Glycine max",taxonomy=3847>
+##contig=<ID=Chr19,length=50746916,assembly=Wm82.a2,species="Glycine max",taxonomy=3847>
+##contig=<ID=Chr13,length=45874162,assembly=Wm82.a2,species="Glycine max",taxonomy=3847>
+##contig=<ID=Chr10,length=51566898,assembly=Wm82.a2,species="Glycine max",taxonomy=3847>
+##contig=<ID=Chr03,length=45779781,assembly=Wm82.a2,species="Glycine max",taxonomy=3847>
+##contig=<ID=Chr08,length=47837940,assembly=Wm82.a2,species="Glycine max",taxonomy=3847>
+##contig=<ID=Chr16,length=37887014,assembly=Wm82.a2,species="Glycine max",taxonomy=3847>
+##contig=<ID=Chr11,length=34766867,assembly=Wm82.a2,species="Glycine max",taxonomy=3847>
+##contig=<ID=Chr12,length=40091314,assembly=Wm82.a2,species="Glycine max",taxonomy=3847>
+##contig=<ID=Chr01,length=56831624,assembly=Wm82.a2,species="Glycine max",taxonomy=3847>
+##contig=<ID=Chr09,length=50189764,assembly=Wm82.a2,species="Glycine max",taxonomy=3847>
+##contig=<ID=Chr14,length=49042192,assembly=Wm82.a2,species="Glycine max",taxonomy=3847>
+##contig=<ID=Chr20,length=47904181,assembly=Wm82.a2,species="Glycine max",taxonomy=3847>
+##contig=<ID=Chr17,length=41641366,assembly=Wm82.a2,species="Glycine max",taxonomy=3847>
+##contig=<ID=Chr02,length=48577505,assembly=Wm82.a2,species="Glycine max",taxonomy=3847>
+##contig=<ID=Chr06,length=51416486,assembly=Wm82.a2,species="Glycine max",taxonomy=3847>
+##contig=<ID=Chr18,length=58018742,assembly=Wm82.a2,species="Glycine max",taxonomy=3847>
+##bcftools_viewVersion=1.14+htslib-1.14
